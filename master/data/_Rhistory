@@ -1,0 +1,512 @@
+theme_minimal(base_size = 12) +
+theme(legend.position="bottom")
+GroupMetro2018 %>%
+ggplot(aes(x = Contribution,
+y = Variation,
+size = ContributionScale,
+fill = Year,
+alpha = ContributionScale, color="#254251")) +
+geom_point(shape=21, colour = "transparent") +
+facet_wrap(~Category) +
+geom_hline(yintercept = 0) +
+labs(title = "Impact of each group throughout the years",
+y = "in %",
+x = "in p.p.") +
+theme_minimal(base_size = 12) +
+theme(legend.position="none")
+GroupMetro2018 %>%
+ggplot(aes(x = Contribution,
+y = Variation,
+size = Year,
+fill = ContributionScale))+
+geom_point(shape=21, colour = "transparent") +
+facet_wrap(~Category) +
+geom_hline(yintercept = 0) +
+labs(title = "Impact of each group throughout the years",
+y = "in %",
+x = "in p.p.") +
+theme_minimal(base_size = 12) +
+theme(legend.position="none")
+GroupMetro2018 %>%
+ggplot(aes(x = Contribution,
+y = Year,
+size = Weight,
+fill = ContributionScale))+
+geom_point(shape=21, colour = "transparent") +
+facet_wrap(~Category) +
+geom_hline(yintercept = 0) +
+labs(title = "Impact of each group throughout the years",
+y = "in %",
+x = "in p.p.") +
+theme_minimal(base_size = 12) +
+theme(legend.position="none")
+GroupMetro2018 %>%
+ggplot(aes(x = Year,
+y = Contribution,
+size = Weight,
+fill = ContributionScale))+
+geom_point(shape=21, colour = "transparent") +
+facet_wrap(~Category) +
+geom_hline(yintercept = 0) +
+labs(title = "Impact of each group throughout the years",
+y = "in %",
+x = "in p.p.") +
+theme_minimal(base_size = 12) +
+theme(legend.position="none")
+GroupMetro2018 %>%
+ggplot(aes(x = Year,
+y = Variation,
+size = Weight,
+fill = Contribution))+
+geom_point(shape=21, colour = "transparent") +
+facet_wrap(~Category) +
+geom_hline(yintercept = 0) +
+labs(title = "Impact of each group throughout the years",
+y = "in %",
+x = "in p.p.") +
+theme_minimal(base_size = 12) +
+theme(legend.position="none")
+GroupMetro2018 %>%
+ggplot(aes(x = Year,
+y = Variation,
+size = Weight,
+fill = Contribution))+
+geom_point(shape=21, colour = "transparent") +
+facet_wrap(~Category) +
+geom_hline(yintercept = 0) +
+labs(title = "Impact of each group throughout the years",
+y = "in %",
+x = "in p.p.") +
+theme_minimal(base_size = 12) +
+theme(legend.position="bottom")
+GroupMetro2018 %>%
+ggplot(aes(x = Year,
+y = Variation,
+size = Weight,
+fill = Contribution))+
+geom_point(shape=21, colour = "transparent") +
+facet_wrap(~Category) +
+geom_hline(yintercept = 0) +
+labs(title = "Impact of each group throughout the years",
+y = "in %",
+x = "in p.p.") +
+theme_minimal(base_size = 12) +
+theme(legend.position="bottom") +
+guide_legend("colourbar")
+GroupMetro2018 %>%
+ggplot(aes(x = Year,
+y = Variation,
+size = Weight,
+fill = Contribution))+
+geom_point(shape=21, colour = "transparent") +
+facet_wrap(~Category) +
+geom_hline(yintercept = 0) +
+labs(title = "Impact of each group throughout the years",
+y = "in %",
+x = "in p.p.") +
+theme_minimal(base_size = 12) +
+theme(legend.position="bottom") +
+#scale_shape_manual(values=c("2012", "2013", "2014", "2015", "2016", "2017", "2018"))+
+#scale_color_manual(values=c('#C78EB6','#752B9F', '#3C2CF9', '#2CDDF9', '#0EF03A','#E6F00E', '#F03A0E')) +
+#Plot 9 - Impacted Faceted by Cateogry, 13-18, for GIF
+GroupMetro2018 %>%
+filter(Year == "2018") %>%
+ggplot(aes(x = Contribution,
+y = Variation,
+size = Weight,
+fill = Year,
+alpha = 0.1)) +
+geom_point(shape=21) +
+labs(title = "Impact of groups on the inflation of 2018",
+y = "in %",
+x = "in p.p.") +
+facet_wrap(~Category) +
+geom_hline(yintercept = 0) +
+xlim(-0.5, 3) +
+ylim(-4, 20) +
+theme_minimal(base_size = 12) +
+theme(legend.position="none")
+GroupMetro2018 %>%
+ggplot(aes(x = Year,
+y = Variation,
+size = Weight,
+fill = Contribution))+
+geom_point(shape=21, colour = "transparent") +
+facet_wrap(~Category) +
+geom_hline(yintercept = 0) +
+labs(title = "Impact of each group throughout the years",
+y = "in %",
+x = "in p.p.") +
+theme_minimal(base_size = 12) +
+theme(legend.position="bottom") +
+#scale_shape_manual(values=c("2012", "2013", "2014", "2015", "2016", "2017", "2018"))+
+#scale_color_manual(values=c('#C78EB6','#752B9F', '#3C2CF9', '#2CDDF9', '#0EF03A','#E6F00E', '#F03A0E')) +
+#Plot 9 - Impacted Faceted by Cateogry, 13-18, for GIF
+GroupMetro2018 %>%
+filter(Year == "2018") %>%
+ggplot(aes(x = Contribution,
+y = Variation,
+size = Weight,
+fill = Year,
+alpha = 0.1)) +
+geom_point(shape=21) +
+labs(title = "Impact of groups on the inflation of 2018",
+y = "in %",
+x = "in p.p.") +
+facet_wrap(~Category) +
+geom_hline(yintercept = 0) +
+xlim(-0.5, 3) +
+ylim(-4, 20) +
+theme_minimal(base_size = 12) +
+theme(legend.position="none")
+GroupMetro2018 <- read.csv("6GroupWeightVariation.csv")
+GroupMetro2018 <- GroupMetro2018[,-1]
+GroupMetro2018$Contribution <- (GroupMetro2018$Variation * GroupMetro2018$Weight)/100
+GroupMetro2018$ContributionScale <- rescale(GroupMetro2018$Contribution, to=c(0,1))
+GroupMetro2018 %>%
+ggplot(aes(x = Year,
+y = Variation,
+size = Weight,
+fill = Contribution))+
+geom_point(shape=21, colour = "transparent") +
+facet_wrap(~Category) +
+geom_hline(yintercept = 0) +
+labs(title = "Impact of each group throughout the years",
+y = "in %",
+x = "in p.p.") +
+theme_minimal(base_size = 12) +
+theme(legend.position="bottom") +
+#scale_shape_manual(values=c("2012", "2013", "2014", "2015", "2016", "2017", "2018"))+
+#scale_color_manual(values=c('#C78EB6','#752B9F', '#3C2CF9', '#2CDDF9', '#0EF03A','#E6F00E', '#F03A0E')) +
+#Plot 9 - Impacted Faceted by Cateogry, 13-18, for GIF
+GroupMetro2018 %>%
+filter(Year == "2018") %>%
+ggplot(aes(x = Contribution,
+y = Variation,
+size = Weight,
+fill = Year,
+alpha = 0.1)) +
+geom_point(shape=21) +
+labs(title = "Impact of groups on the inflation of 2018",
+y = "in %",
+x = "in p.p.") +
+facet_wrap(~Category) +
+geom_hline(yintercept = 0) +
+xlim(-0.5, 3) +
+ylim(-4, 20) +
+theme_minimal(base_size = 12) +
+theme(legend.position="none")
+GroupMetro2018 %>%
+ggplot(aes(x = Year,
+y = Variation,
+size = Weight,
+fill = Contribution))+
+geom_point(shape=21, colour = "transparent") +
+facet_wrap(~Category) +
+geom_hline(yintercept = 0) +
+labs(title = "Impact of each group throughout the years",
+y = "in %",
+x = "in p.p.") +
+theme_minimal(base_size = 12) +
+theme(legend.position="bottom")
+GroupMetro2018 %>%
+ggplot(aes(x = Year,
+y = Variation,
+size = Weight,
+fill = Contribution))+
+geom_point(shape=21, colour = "transparent") +
+scale_fill_gradient(low = "#d8dcf3", high = "#1a2454")
+GroupMetro2018 %>%
+ggplot(aes(x = Year,
+y = Variation,
+size = Weight,
+fill = Contribution))+
+geom_point(shape=21, colour = "transparent") +
+scale_fill_gradient(low = "#d8dcf3", high = "#1a2454") +
+facet_wrap(~Category) +
+geom_hline(yintercept = 0) +
+labs(title = "Impact of each group throughout the years",
+y = "in %",
+x = "in p.p.") +
+theme_minimal(base_size = 12) +
+theme(legend.position="bottom")
+GroupMetro2018 %>%
+ggplot(aes(x = Year,
+y = Variation,
+size = Weight,
+fill = ContributionScale))+
+geom_point(shape=21, colour = "transparent") +
+scale_fill_gradient(low = "#d8dcf3", high = "#1a2454") +
+facet_wrap(~Category) +
+geom_hline(yintercept = 0) +
+labs(title = "Impact of each group throughout the years",
+y = "in %",
+x = "in p.p.") +
+theme_minimal(base_size = 12) +
+theme(legend.position="bottom")
+GroupMetro2018 %>%
+ggplot(aes(x = Year,
+y = Wieght,
+size = Variation,
+fill = ContributionScale))+
+geom_point(shape=21, colour = "transparent") +
+scale_fill_gradient(low = "#d8dcf3", high = "#1a2454") +
+facet_wrap(~Category) +
+geom_hline(yintercept = 0) +
+labs(title = "Impact of each group throughout the years",
+y = "in %",
+x = "in p.p.") +
+theme_minimal(base_size = 12) +
+theme(legend.position="bottom")
+GroupMetro2018 %>%
+ggplot(aes(x = Year,
+y = Weight,
+size = Variation,
+fill = ContributionScale))+
+geom_point(shape=21, colour = "transparent") +
+scale_fill_gradient(low = "#d8dcf3", high = "#1a2454") +
+facet_wrap(~Category) +
+geom_hline(yintercept = 0) +
+labs(title = "Impact of each group throughout the years",
+y = "in %",
+x = "in p.p.") +
+theme_minimal(base_size = 12) +
+theme(legend.position="bottom")
+x = Year,
+y = ContributionScale,
+size = Weight,
+fill = Variation)) +
+geom_point(shape = 21, colour = "transparent") +
+scale_fill_gradient(low = "#d8dcf3", high = "#1a2454") +
+facet_wrap( ~ Category) +
+geom_hline(yintercept = 0) +
+labs(title = "Impact of each group throughout the years",
+y = "in %",
+x = "in p.p.") +
+theme_minimal(base_size = 12) +
+theme(legend.position = "bottom")
+GroupMetro2018 %>%
+ggplot(aes(x = Year,
+y = ContributionScale,
+size = Weight,
+fill = Variation)) +
+geom_point(shape = 21, colour = "transparent") +
+scale_fill_gradient(low = "#d8dcf3", high = "#1a2454") +
+facet_wrap( ~ Category) +
+geom_hline(yintercept = 0) +
+labs(title = "Impact of each group throughout the years",
+y = "in %",
+x = "in p.p.") +
+theme_minimal(base_size = 12) +
+theme(legend.position = "bottom")
+GroupMetro2018 %>%
+ggplot(aes(x = Year,
+y = Variation,
+size = Weight,
+fill = ContributionScale)) +
+geom_point(shape = 21, colour = "transparent") +
+scale_fill_gradient(low = "#d8dcf3", high = "#1a2454") +
+facet_wrap( ~ Category) +
+geom_hline(yintercept = 0) +
+labs(title = "Impact of each group throughout the years",
+y = "in %",
+x = "in p.p.") +
+theme_minimal(base_size = 12) +
+theme(legend.position = "bottom")
+GroupMetro2018 %>%
+ggplot(aes(x = Year,
+y = Variation,
+size = Weight,
+fill = ContributionScale)) +
+geom_point(shape = 21, colour = "transparent") +
+scale_fill_gradient(low = "#d8dcf3", high = "#1a2454") +
+facet_wrap( ~ Category) +
+geom_hline(yintercept = 0) +
+labs(title = "Impact of each group throughout the years",
+y = "in %",
+x = "in p.p.") +
+xlim(-5, 30) +
+theme_minimal(base_size = 12) +
+theme(legend.position = "bottom")
+GroupMetro2018 %>%
+ggplot(aes(x = Year,
+y = Variation,
+size = Weight,
+fill = ContributionScale)) +
+geom_point(shape = 21, colour = "transparent") +
+scale_fill_gradient(low = "#d8dcf3", high = "#1a2454") +
+facet_wrap( ~ Category) +
+geom_hline(yintercept = 0) +
+labs(title = "Impact of each group throughout the years",
+y = "in %",
+x = "in p.p.") +
+theme_minimal(base_size = 12) +
+theme(legend.position = "bottom")
+GroupMetro2018 %>%
+ggplot(aes(x = Year,
+y = Variation,
+size = Weight,
+fill = ContributionScale)) +
+geom_point(shape = 21, colour = "transparent") +
+scale_fill_gradient(low = "#d8dcf3", high = "#1a2454") +
+ylim(-5, 30) +
+facet_wrap( ~ Category) +
+geom_hline(yintercept = 0) +
+labs(title = "Impact of each group throughout the years",
+y = "in %",
+x = "in p.p.") +
+theme_minimal(base_size = 12) +
+theme(legend.position = "bottom")
+GroupMetro2018 %>%
+ggplot(aes(x = Year,
+y = Variation,
+size = Weight,
+fill = ContributionScale)) +
+geom_point(shape = 21, colour = "transparent") +
+scale_fill_gradient(low = "#d8dcf3", high = "#1a2454") +
+ylim(-5, 25) +
+facet_wrap( ~ Category) +
+geom_hline(yintercept = 0) +
+labs(title = "Impact of each group throughout the years",
+y = "in %",
+x = "in p.p.") +
+theme_minimal(base_size = 12) +
+theme(legend.position = "bottom")
+GroupMetro2018 %>%
+ggplot(aes(x = Year,
+y = Variation,
+size = Weight,
+fill = ContributionScale)) +
+geom_point(shape = 21, colour = "transparent") +
+scale_fill_gradient(low = "#d8dcf3", high = "#1a2454") +
+ylim(-5, 25) +
+facet_wrap( ~ Category) +
+facet_grid(.~ContributionScale)
+GroupMetro2018 %>%
+ggplot(aes(x = Year,
+y = Variation,
+size = Weight,
+fill = ContributionScale)) +
+geom_point(shape = 21, colour = "transparent") +
+scale_fill_gradient(low = "#d8dcf3", high = "#1a2454") +
+ylim(-5, 25) +
+facet_wrap( ~ Category) +
+facet_grid(.~ContributionScale) +
+geom_hline(yintercept = 0) +
+labs(title = "Impact of each group throughout the years",
+y = "in %",
+x = "in p.p.") +
+theme_minimal(base_size = 12) +
+theme(legend.position = "bottom")
+GroupMetro2018 %>%
+ggplot(aes(x = Year,
+y = Variation,
+size = Weight,
+fill = ContributionScale)) +
+geom_point(shape = 21, colour = "transparent") +
+scale_fill_gradient(low = "#d8dcf3", high = "#1a2454") +
+ylim(-5, 25) +
+facet_wrap( ~ Category) +
+geom_hline(yintercept = 0) +
+labs(title = "Impact of each group throughout the years",
+y = "in %",
+x = "in p.p.") +
+theme_minimal(base_size = 12) +
+theme(legend.position = "bottom")
+GroupMetro2018 %>%
+filter(Year == "2018") %>%
+ggplot(aes(
+x = Contribution,
+y = Variation,
+size = Weight,
+fill = Year,
+alpha = 0.1
+)) +
+geom_point(shape = 21) +
+labs(title = "Impact of groups on the inflation of 2018",
+y = "in %",
+x = "in p.p.") +
+facet_wrap( ~ Category) +
+facet_grid(.~Contribution) +
+geom_hline(yintercept = 0) +
+xlim(-0.5, 3) +
+ylim(-4, 20) +
+theme_minimal(base_size = 12) +
+theme(legend.position = "none")
+GroupMetro2018 %>%
+filter(Year == "2018") %>%
+ggplot(aes(
+x = Contribution,
+y = Variation,
+size = Weight,
+fill = Year,
+alpha = 0.1
+)) +
+geom_point(shape = 21) +
+labs(title = "Impact of groups on the inflation of 2018",
+y = "in %",
+x = "in p.p.") +
+facet_wrap( ~ Category) +
+geom_hline(yintercept = 0) +
+xlim(-0.5, 3) +
+ylim(-4, 20) +
+theme_minimal(base_size = 12) +
+theme(legend.position = "none")
+GroupMetro2018 %>%
+filter(Year == "2018") %>%
+ggplot(aes(
+x = Contribution,
+y = Variation,
+size = Weight,
+fill = Year,
+alpha = 0.1
+)) +
+geom_point(shape = 21) +
+labs(title = "Impact of groups on the inflation of 2018",
+y = "in %",
+x = "in p.p.") +
+facet_wrap( ~ Category) +
+geom_hline(yintercept = 0) +
+xlim(-0.5, 3) +
+ylim(-4, 20) +
+theme_minimal(base_size = 12) +
+theme(legend.position = "none")
+GroupMetro2018 %>%
+filter(Year == "2018") %>%
+ggplot(aes(
+x = Contribution,
+y = Variation,
+size = Weight,
+fill = Year,
+alpha = 0.1
+)) +
+geom_point(shape = 21) +
+labs(title = "Impact of groups on the inflation of 2018",
+y = "in %",
+x = "in p.p.") +
+facet_wrap( ~ Category) +
+facet_grid(.~Contribution) +
+geom_hline(yintercept = 0) +
+xlim(-0.5, 3) +
+ylim(-4, 20) +
+theme_minimal(base_size = 12) +
+theme(legend.position = "none")
+GroupMetro2018 %>%
+filter(Year == "2018") %>%
+ggplot(aes(
+x = Contribution,
+y = Variation,
+size = Weight,
+fill = Year,
+alpha = 0.1
+)) +
+geom_point(shape = 21) +
+labs(title = "Impact of groups on the inflation of 2018",
+y = "in %",
+x = "in p.p.") +
+facet_wrap( ~ Category) +
+geom_hline(yintercept = 0) +
+xlim(-0.5, 3) +
+ylim(-4, 20) +
+theme_minimal(base_size = 12) +
+theme(legend.position = "none")
