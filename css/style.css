@@ -72,16 +72,13 @@ h3 {
 }
 
 h4 {
-  text-align: left;
+  text-align: center;
+  color: #FFFFFF;
+  font-family: 'PT-Sans', sans-serif;
+  size: 10px;
 }
 
 h5 {
-  text-align: center;
-  size: 10px;
-  font-style: italic;
-  color: #FFFFFF;
-  font-family: 'PT-Sans', sans-serif;
-  margin-bottom: 5px;
 }
 
 
