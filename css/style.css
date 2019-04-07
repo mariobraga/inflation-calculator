@@ -20,6 +20,8 @@ main {
 
 p {
   color: #18224F;
+  font-family: 'Poppins', sans-serif;
+  font-size: 17px
 }
 
 .faded {
@@ -94,6 +96,13 @@ h6 {
   margin-bottom: 20px;
 }
 
+input[type=text] {
+    padding:5px; 
+    border:2px solid #ccc; 
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+}
+
 footer {
   text-align: center;
   size: 5px;
@@ -107,6 +116,8 @@ footer {
   
 }
 
+input{
+
 @media (max-width: 600px) {
 
   body {
@@ -115,3 +126,6 @@ footer {
 
   
 }
+
+#background-color:gray;}
+#input:focus{background-color:darkgray;}
