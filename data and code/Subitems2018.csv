@@ -1,0 +1,374 @@
+﻿IBGE,Category,Subitem,Variável,Weight,Variation
+,Food and Beverages,1101002.Arroz,IPCA dessazonalizado - Peso mensal (%),0.5607,5.4
+,Food and Beverages,1101051.Feijão - mulatinho,IPCA dessazonalizado - Peso mensal (%),0.0227,2.44
+,Food and Beverages,1101052.Feijão - preto,IPCA dessazonalizado - Peso mensal (%),0.07,-3.68
+,Food and Beverages,1101053.Feijão - macassar (fradinho),IPCA dessazonalizado - Peso mensal (%),0.0338,-16.65
+,Food and Beverages,1101073.Feijão - carioca (rajado),IPCA dessazonalizado - Peso mensal (%),0.1545,4.51
+,Food and Beverages,1102001.Farinha de arroz,IPCA dessazonalizado - Peso mensal (%),0.0118,7.15
+,Food and Beverages,1102006.Macarrão,IPCA dessazonalizado - Peso mensal (%),0.2694,10.53
+,Food and Beverages,1102008.Fubá de milho,IPCA dessazonalizado - Peso mensal (%),0.0275,1.76
+,Food and Beverages,1102009.Amido de milho,IPCA dessazonalizado - Peso mensal (%),0.0048,9.38
+,Food and Beverages,1102010.Flocos de milho,IPCA dessazonalizado - Peso mensal (%),0.0058,5
+,Food and Beverages,1102012.Farinha de trigo,IPCA dessazonalizado - Peso mensal (%),0.0711,18.1
+,Food and Beverages,1102013.Farinha vitaminada,IPCA dessazonalizado - Peso mensal (%),0.0084,9.75
+,Food and Beverages,Manioc Flour,IPCA dessazonalizado - Peso mensal (%),0.1858,-13.87
+,Food and Beverages,1102029.Massa semipreparada,IPCA dessazonalizado - Peso mensal (%),0.0898,4.49
+,Food and Beverages,1103003.Batata-inglesa,IPCA dessazonalizado - Peso mensal (%),0.1735,23.52
+,Food and Beverages,1103004.Inhame,IPCA dessazonalizado - Peso mensal (%),0.008,4.21
+,Food and Beverages,1103005.Mandioca (aipim),IPCA dessazonalizado - Peso mensal (%),0.012,-11.61
+,Food and Beverages,1103017.Abóbora,IPCA dessazonalizado - Peso mensal (%),0.0095,13.52
+,Food and Beverages,1103026.Pimentão,IPCA dessazonalizado - Peso mensal (%),0.0054,27.11
+,Food and Beverages,1103027.Quiabo,IPCA dessazonalizado - Peso mensal (%),0.0035,-9.17
+,Food and Beverages,Tomato,IPCA dessazonalizado - Peso mensal (%),0.1845,70.18
+,Food and Beverages,1103043.Cebola,IPCA dessazonalizado - Peso mensal (%),0.1003,36.56
+,Food and Beverages,1103044.Cenoura,IPCA dessazonalizado - Peso mensal (%),0.0473,12.55
+,Food and Beverages,1103046.Mandioquinha (batata-baroa),IPCA dessazonalizado - Peso mensal (%),0.0091,11.96
+,Food and Beverages,1104003.Açúcar refinado,IPCA dessazonalizado - Peso mensal (%),0.1126,-5.99
+,Food and Beverages,Crystal Sugar,IPCA dessazonalizado - Peso mensal (%),0.2982,-6.34
+,Food and Beverages,1104018.Balas,IPCA dessazonalizado - Peso mensal (%),0.0164,6.99
+,Food and Beverages,1104023.Chocolate em barra e bombom,IPCA dessazonalizado - Peso mensal (%),0.1349,-1.48
+,Food and Beverages,1104032.Sorvete,IPCA dessazonalizado - Peso mensal (%),0.1235,-4.07
+,Food and Beverages,1104052.Chocolate e achocolatado em pó,IPCA dessazonalizado - Peso mensal (%),0.1558,1.92
+,Food and Beverages,1104060.Doce de frutas em pasta,IPCA dessazonalizado - Peso mensal (%),0.0048,-2.06
+,Food and Beverages,1105001.Alface,IPCA dessazonalizado - Peso mensal (%),0.099,11.02
+,Food and Beverages,1105004.Coentro,IPCA dessazonalizado - Peso mensal (%),0.0111,-0.58
+,Food and Beverages,1105005.Couve,IPCA dessazonalizado - Peso mensal (%),0.0174,9.04
+,Food and Beverages,1105006.Couve-flor,IPCA dessazonalizado - Peso mensal (%),0.0042,9.86
+,Food and Beverages,1105010.Repolho,IPCA dessazonalizado - Peso mensal (%),0.0265,13.31
+,Food and Beverages,1105012.Cheiro-verde,IPCA dessazonalizado - Peso mensal (%),0.0379,10.58
+,Food and Beverages,1105013.Agrião,IPCA dessazonalizado - Peso mensal (%),0.0002,11.24
+,Food and Beverages,1105019.Brócolis,IPCA dessazonalizado - Peso mensal (%),0.0149,15.76
+,Food and Beverages,1106001.Banana-da-terra,IPCA dessazonalizado - Peso mensal (%),0.0144,-6.13
+,Food and Beverages,1106003.Abacaxi,IPCA dessazonalizado - Peso mensal (%),0.0299,1.97
+,Food and Beverages,1106004.Abacate,IPCA dessazonalizado - Peso mensal (%),0.0024,-27.9
+,Food and Beverages,1106005.Banana - d.agua,IPCA dessazonalizado - Peso mensal (%),0.0947,-3.1
+,Food and Beverages,1106006.Banana - maçã,IPCA dessazonalizado - Peso mensal (%),0.0047,2.33
+,Food and Beverages,1106008.Banana - prata,IPCA dessazonalizado - Peso mensal (%),0.1688,-2.14
+,Food and Beverages,1106011.Laranja - baía,IPCA dessazonalizado - Peso mensal (%),0.0086,33.4
+,Food and Beverages,1106015.Limão,IPCA dessazonalizado - Peso mensal (%),0.003,-12.25
+,Food and Beverages,1106017.Maçã,IPCA dessazonalizado - Peso mensal (%),0.1277,18.46
+,Food and Beverages,1106018.Mamão,IPCA dessazonalizado - Peso mensal (%),0.0816,16.11
+,Food and Beverages,1106019.Manga,IPCA dessazonalizado - Peso mensal (%),0.011,-10.61
+,Food and Beverages,1106020.Maracujá,IPCA dessazonalizado - Peso mensal (%),0.0055,18.18
+,Food and Beverages,1106021.Melancia,IPCA dessazonalizado - Peso mensal (%),0.0541,3.54
+,Food and Beverages,1106023.Pera,IPCA dessazonalizado - Peso mensal (%),0.0222,10.87
+,Food and Beverages,1106027.Tangerina,IPCA dessazonalizado - Peso mensal (%),0.0757,76.42
+,Food and Beverages,1106028.Uva,IPCA dessazonalizado - Peso mensal (%),0.0769,11.88
+,Food and Beverages,1106039.Laranja - pera,IPCA dessazonalizado - Peso mensal (%),0.1403,18.73
+,Food and Beverages,1106051.Morango,IPCA dessazonalizado - Peso mensal (%),0.0097,2.81
+,Food and Beverages,1106084.Goiaba,IPCA dessazonalizado - Peso mensal (%),0.0028,5.24
+,Food and Beverages,1107009.Fígado,IPCA dessazonalizado - Peso mensal (%),0.0268,-2.37
+,Food and Beverages,1107018.Carne de porco,IPCA dessazonalizado - Peso mensal (%),0.212,-0.39
+,Food and Beverages,1107031.Carne de carneiro,IPCA dessazonalizado - Peso mensal (%),0.009,4.25
+,Food and Beverages,1107084.Contrafilé,IPCA dessazonalizado - Peso mensal (%),0.3593,2.5
+,Food and Beverages,1107085.Filé-mignon,IPCA dessazonalizado - Peso mensal (%),0.0545,6.35
+,Food and Beverages,1107087.Chã de dentro,IPCA dessazonalizado - Peso mensal (%),0.2749,2.11
+,Food and Beverages,1107088.Alcatra,IPCA dessazonalizado - Peso mensal (%),0.4241,3.34
+,Food and Beverages,1107089.Patinho,IPCA dessazonalizado - Peso mensal (%),0.2012,4.48
+,Food and Beverages,1107090.Lagarto redondo,IPCA dessazonalizado - Peso mensal (%),0.0167,5.23
+,Food and Beverages,1107091.Lagarto comum,IPCA dessazonalizado - Peso mensal (%),0.0612,1.76
+,Food and Beverages,1107093.Músculo,IPCA dessazonalizado - Peso mensal (%),0.1515,4.16
+,Food and Beverages,1107094.Pá,IPCA dessazonalizado - Peso mensal (%),0.1287,2.95
+,Food and Beverages,1107095.Acém,IPCA dessazonalizado - Peso mensal (%),0.2954,1.51
+,Food and Beverages,1107096.Peito,IPCA dessazonalizado - Peso mensal (%),0.0348,1.33
+,Food and Beverages,1107097.Capa de filé,IPCA dessazonalizado - Peso mensal (%),0.0041,6.31
+,Food and Beverages,1107099.Costela,IPCA dessazonalizado - Peso mensal (%),0.414,0.97
+,Food and Beverages,1108002.Peixe - anchova,IPCA dessazonalizado - Peso mensal (%),0.0035,-0.85
+,Food and Beverages,1108003.Peixe - badejo,IPCA dessazonalizado - Peso mensal (%),0.001,-0.61
+,Food and Beverages,1108004.Peixe - corvina,IPCA dessazonalizado - Peso mensal (%),0.0279,10.18
+,Food and Beverages,1108005.Peixe - cavalinha,IPCA dessazonalizado - Peso mensal (%),0.0026,3.44
+,Food and Beverages,1108006.Peixe,IPCA dessazonalizado - Peso mensal (%),0.0494,5.53
+,Food and Beverages,1108012.Peixe - sardinha,IPCA dessazonalizado - Peso mensal (%),0.0163,9.49
+,Food and Beverages,1108013.Camarão,IPCA dessazonalizado - Peso mensal (%),0.0508,-4.3
+,Food and Beverages,1108015.Peixe - vermelho,IPCA dessazonalizado - Peso mensal (%),0.0034,-0.12
+,Food and Beverages,1108019.Peixe - cavala,IPCA dessazonalizado - Peso mensal (%),0.0066,-3.78
+,Food and Beverages,1108024.Peixe - pacu,IPCA dessazonalizado - Peso mensal (%),0.0005,-2.81
+,Food and Beverages,1108028.Peixe - dourado,IPCA dessazonalizado - Peso mensal (%),0.0006,11.86
+,Food and Beverages,1108029.Peixe - cação,IPCA dessazonalizado - Peso mensal (%),0.0081,4.68
+,Food and Beverages,1108031.Peixe - merluza,IPCA dessazonalizado - Peso mensal (%),0.0244,14.48
+,Food and Beverages,1108032.Peixe - serra,IPCA dessazonalizado - Peso mensal (%),0.0065,-0.31
+,Food and Beverages,1108038.Peixe - pescada,IPCA dessazonalizado - Peso mensal (%),0.0639,1.58
+,Food and Beverages,1108045.Caranguejo,IPCA dessazonalizado - Peso mensal (%),0.007,-6.76
+,Food and Beverages,1108049.Peixe - castanha,IPCA dessazonalizado - Peso mensal (%),0.0012,-0.11
+,Food and Beverages,1108075.Peixe - salmão,IPCA dessazonalizado - Peso mensal (%),0.0074,7.5
+,Food and Beverages,1108080.Peixe - tilápia,IPCA dessazonalizado - Peso mensal (%),0.018,-2.49
+,Food and Beverages,1108083.Peixe - tucunaré,IPCA dessazonalizado - Peso mensal (%),0.0046,-1.07
+,Food and Beverages,1108088.Peixe - dourada,IPCA dessazonalizado - Peso mensal (%),0.0211,-6.16
+,Food and Beverages,1108096.Peixe - peroá,IPCA dessazonalizado - Peso mensal (%),0.0008,-11.71
+,Food and Beverages,1108112.Peixe - pintado,IPCA dessazonalizado - Peso mensal (%),0.0004,-6.94
+,Food and Beverages,1109002.Presunto,IPCA dessazonalizado - Peso mensal (%),0.1175,-0.66
+,Food and Beverages,1109007.Salsicha,IPCA dessazonalizado - Peso mensal (%),0.1088,3.47
+,Food and Beverages,1109008.Linguiça,IPCA dessazonalizado - Peso mensal (%),0.2989,-0.95
+,Food and Beverages,1109010.Mortadela,IPCA dessazonalizado - Peso mensal (%),0.0944,1.87
+,Food and Beverages,1109012.Salame,IPCA dessazonalizado - Peso mensal (%),0.0074,6.17
+,Food and Beverages,1109056.Carne-seca e de sol,IPCA dessazonalizado - Peso mensal (%),0.1409,-0.01
+,Food and Beverages,1109058.Carne de porco salgada e defumada,IPCA dessazonalizado - Peso mensal (%),0.015,-1.88
+,Food and Beverages,1109088.Hambúrger,IPCA dessazonalizado - Peso mensal (%),0.0019,10.71
+,Food and Beverages,1110009.Frango inteiro,IPCA dessazonalizado - Peso mensal (%),0.4492,4.38
+,Food and Beverages,1110010.Frango em pedaços,IPCA dessazonalizado - Peso mensal (%),0.3501,6.44
+,Food and Beverages,1110044.Ovo de galinha,IPCA dessazonalizado - Peso mensal (%),0.2274,-4.09
+,Food and Beverages,1111004.Leite longa vida,IPCA dessazonalizado - Peso mensal (%),0.8533,8.41
+,Food and Beverages,1111008.Leite condensado,IPCA dessazonalizado - Peso mensal (%),0.0179,2.7
+,Food and Beverages,1111009.Leite em pó,IPCA dessazonalizado - Peso mensal (%),0.235,4.02
+,Food and Beverages,1111011.Queijo,IPCA dessazonalizado - Peso mensal (%),0.5214,4.19
+,Food and Beverages,1111012.Creme de leite,IPCA dessazonalizado - Peso mensal (%),0.0031,2.57
+,Food and Beverages,1111019.Iogurte e bebidas lácteas,IPCA dessazonalizado - Peso mensal (%),0.2275,5.56
+,Food and Beverages,1111031.Manteiga,IPCA dessazonalizado - Peso mensal (%),0.0323,2.89
+,Food and Beverages,1112003.Biscoito,IPCA dessazonalizado - Peso mensal (%),0.4773,0.3
+,Food and Beverages,1112015.Pão francês,IPCA dessazonalizado - Peso mensal (%),1.1068,6.45
+,Food and Beverages,1112017.Pão doce,IPCA dessazonalizado - Peso mensal (%),0.1053,2.94
+,Food and Beverages,1112018.Pão de forma,IPCA dessazonalizado - Peso mensal (%),0.1224,2.43
+,Food and Beverages,1112019.Bolo,IPCA dessazonalizado - Peso mensal (%),0.1089,3.88
+,Food and Beverages,1112025.Pão de queijo,IPCA dessazonalizado - Peso mensal (%),0.0204,7.49
+,Food and Beverages,1113013.Óleo de soja,IPCA dessazonalizado - Peso mensal (%),0.2646,-0.5
+,Food and Beverages,1113014.Azeite de oliva,IPCA dessazonalizado - Peso mensal (%),0.027,6.2
+,Food and Beverages,1113040.Margarina,IPCA dessazonalizado - Peso mensal (%),0.1543,3.94
+,Food and Beverages,1114001.Suco de frutas,IPCA dessazonalizado - Peso mensal (%),0.1579,1.53
+,Food and Beverages,1114004.Açaí (emulsão),IPCA dessazonalizado - Peso mensal (%),0.0364,1.19
+,Food and Beverages,Ground Coffee,IPCA dessazonalizado - Peso mensal (%),0.4103,-8.27
+,Food and Beverages,1114023.Café solúvel,IPCA dessazonalizado - Peso mensal (%),0.0157,6.87
+,Food and Beverages,1114029.Chá,IPCA dessazonalizado - Peso mensal (%),0.0425,2.51
+,Food and Beverages,1114083.Refrigerante e água mineral,IPCA dessazonalizado - Peso mensal (%),0.7606,2.66
+,Food and Beverages,1114084.Cerveja,IPCA dessazonalizado - Peso mensal (%),0.4031,-0.75
+,Food and Beverages,1114085.Outras bebidas alcoólicas,IPCA dessazonalizado - Peso mensal (%),0.1179,3.57
+,Food and Beverages,1115004.Coco ralado,IPCA dessazonalizado - Peso mensal (%),0.0072,0.12
+,Food and Beverages,1115006.Ervilha em conserva,IPCA dessazonalizado - Peso mensal (%),0.0056,1.07
+,Food and Beverages,1115016.Palmito em conserva,IPCA dessazonalizado - Peso mensal (%),0.014,1.35
+,Food and Beverages,1115017.Pepino em conserva,IPCA dessazonalizado - Peso mensal (%),0.0046,2.1
+,Food and Beverages,1115039.Sardinha em conserva,IPCA dessazonalizado - Peso mensal (%),0.0402,7.85
+,Food and Beverages,1115050.Salsicha em conserva,IPCA dessazonalizado - Peso mensal (%),0.0041,3.2
+,Food and Beverages,1115051.Carne em conserva,IPCA dessazonalizado - Peso mensal (%),0.0065,-2.01
+,Food and Beverages,1115053.Patê,IPCA dessazonalizado - Peso mensal (%),0.0033,9.18
+,Food and Beverages,1115056.Sopa desidratada,IPCA dessazonalizado - Peso mensal (%),0.0102,10.34
+,Food and Beverages,1115057.Azeitona,IPCA dessazonalizado - Peso mensal (%),0.029,0.23
+,Food and Beverages,1115058.Milho-verde em conserva,IPCA dessazonalizado - Peso mensal (%),0.0186,-4.98
+,Food and Beverages,1115075.Atum em conserva,IPCA dessazonalizado - Peso mensal (%),0.0174,8.16
+,Food and Beverages,1116001.Leite de coco,IPCA dessazonalizado - Peso mensal (%),0.0052,-2.69
+,Food and Beverages,1116005.Atomatado,IPCA dessazonalizado - Peso mensal (%),0.1561,1.83
+,Food and Beverages,Garlic,IPCA dessazonalizado - Peso mensal (%),0.1009,-10.79
+,Food and Beverages,1116013.Sal,IPCA dessazonalizado - Peso mensal (%),0.0083,4.4
+,Food and Beverages,1116026.Fermento,IPCA dessazonalizado - Peso mensal (%),0.0081,4.14
+,Food and Beverages,1116033.Maionese,IPCA dessazonalizado - Peso mensal (%),0.0465,2.99
+,Food and Beverages,1116041.Vinagre,IPCA dessazonalizado - Peso mensal (%),0.006,0.99
+,Food and Beverages,1116048.Caldo concentrado,IPCA dessazonalizado - Peso mensal (%),0.0283,1.59
+,Food and Beverages,1116071.Tempero misto,IPCA dessazonalizado - Peso mensal (%),0.0629,6.7
+,Food and Beverages,Eating Out (meal),IPCA dessazonalizado - Peso mensal (%),5.1702,2.39
+,Food and Beverages,Eating Out (snack),IPCA dessazonalizado - Peso mensal (%),2.0974,4.36
+,Food and Beverages,1201005.Café da manhã,IPCA dessazonalizado - Peso mensal (%),0.1126,2.59
+,Food and Beverages,1201007.Refrigerante e água mineral,IPCA dessazonalizado - Peso mensal (%),0.3867,4.7
+,Food and Beverages,1201009.Cafezinho,IPCA dessazonalizado - Peso mensal (%),0.0806,8.64
+,Food and Beverages,1201048.Cerveja,IPCA dessazonalizado - Peso mensal (%),0.7196,3.71
+,Food and Beverages,1201051.Outras bebidas alcoólicas,IPCA dessazonalizado - Peso mensal (%),0.0696,2.37
+,Food and Beverages,1201061.Doces,IPCA dessazonalizado - Peso mensal (%),0.2714,4.27
+,Housing,2101001.Aluguel residencial,IPCA dessazonalizado - Peso mensal (%),3.914,1.94
+,Housing,Condo Fee,IPCA dessazonalizado - Peso mensal (%),1.6962,5.54
+,Housing,Water and Sewerage Fee,IPCA dessazonalizado - Peso mensal (%),1.7599,4.51
+,Housing,2101012.Mudança,IPCA dessazonalizado - Peso mensal (%),0.0162,3.31
+,Housing,2103005.Ferragens,IPCA dessazonalizado - Peso mensal (%),0.046,8.17
+,Housing,2103008.Material de eletricidade,IPCA dessazonalizado - Peso mensal (%),0.0226,1.18
+,Housing,2103009.Material de pintura,IPCA dessazonalizado - Peso mensal (%),0.0301,5.2
+,Housing,2103012.Vidro,IPCA dessazonalizado - Peso mensal (%),0.0202,7.59
+,Housing,2103014.Tinta,IPCA dessazonalizado - Peso mensal (%),0.2279,9.2
+,Housing,2103032.Revestimento de piso e parede,IPCA dessazonalizado - Peso mensal (%),0.1519,0.1
+,Housing,2103039.Cimento,IPCA dessazonalizado - Peso mensal (%),0.1477,1.88
+,Housing,2103040.Tijolo,IPCA dessazonalizado - Peso mensal (%),0.113,3.96
+,Housing,2103041.Material hidráulico,IPCA dessazonalizado - Peso mensal (%),0.055,2.1
+,Housing,2103042.Mão-de-obra,IPCA dessazonalizado - Peso mensal (%),1.5295,1.29
+,Housing,2103048.Areia,IPCA dessazonalizado - Peso mensal (%),0.0463,3.12
+,Housing,2103055.Telha,IPCA dessazonalizado - Peso mensal (%),0.0724,1.73
+,Housing,2104005.Água sanitária,IPCA dessazonalizado - Peso mensal (%),0.0585,2.33
+,Housing,2104008.Detergente,IPCA dessazonalizado - Peso mensal (%),0.1249,4.37
+,Housing,2104009.Sabão em pó,IPCA dessazonalizado - Peso mensal (%),0.3334,4.9
+,Housing,2104012.Desinfetante,IPCA dessazonalizado - Peso mensal (%),0.0499,4.48
+,Housing,2104013.Inseticida,IPCA dessazonalizado - Peso mensal (%),0.0055,-1.45
+,Housing,2104015.Sabão em barra,IPCA dessazonalizado - Peso mensal (%),0.0968,4.19
+,Housing,2104016.Esponja de limpeza,IPCA dessazonalizado - Peso mensal (%),0.0449,2.15
+,Housing,2104032.Amaciante,IPCA dessazonalizado - Peso mensal (%),0.14,7.76
+,Housing,2201003.Carvão vegetal,IPCA dessazonalizado - Peso mensal (%),0.0066,14.05
+,Housing,2201004.Gás de botijão,IPCA dessazonalizado - Peso mensal (%),1.3223,4.85
+,Housing,2201005.Gás encanado,IPCA dessazonalizado - Peso mensal (%),0.0733,11.31
+,Housing,Electricity Bill,IPCA dessazonalizado - Peso mensal (%),3.6169,8.71
+,Household Goods,3101002.Móvel para sala,IPCA dessazonalizado - Peso mensal (%),0.5081,3.42
+,Household Goods,3101003.Móvel para quarto,IPCA dessazonalizado - Peso mensal (%),0.4404,2.32
+,Household Goods,3101015.Móvel para copa e cozinha,IPCA dessazonalizado - Peso mensal (%),0.167,2.93
+,Household Goods,3101016.Móvel infantil,IPCA dessazonalizado - Peso mensal (%),0.0105,-0.34
+,Household Goods,3101017.Colchão,IPCA dessazonalizado - Peso mensal (%),0.1181,3.87
+,Household Goods,3102005.Tapete,IPCA dessazonalizado - Peso mensal (%),0.0871,4.49
+,Household Goods,3102006.Cortina,IPCA dessazonalizado - Peso mensal (%),0.0859,7.05
+,Household Goods,3102007.Utensílios de metal,IPCA dessazonalizado - Peso mensal (%),0.0943,4.45
+,Household Goods,3102009.Utensílios de vidro e louça,IPCA dessazonalizado - Peso mensal (%),0.0561,-0.9
+,Household Goods,3102010.Utensílios de plástico,IPCA dessazonalizado - Peso mensal (%),0.0433,0.43
+,Household Goods,3102035.Flores naturais,IPCA dessazonalizado - Peso mensal (%),0.0233,4.5
+,Household Goods,3102040.Utensílios diversos,IPCA dessazonalizado - Peso mensal (%),0.1519,5.57
+,Household Goods,3103001.Roupa de cama,IPCA dessazonalizado - Peso mensal (%),0.223,5.97
+,Household Goods,3103003.Roupa de banho,IPCA dessazonalizado - Peso mensal (%),0.0787,6.83
+,Household Goods,3201001.Refrigerador,IPCA dessazonalizado - Peso mensal (%),0.4311,7.58
+,Household Goods,3201002.Ar-condicionado,IPCA dessazonalizado - Peso mensal (%),0.0348,0.29
+,Household Goods,3201006.Máquina de lavar roupa,IPCA dessazonalizado - Peso mensal (%),0.1888,8.01
+,Household Goods,3201012.Liquidificador,IPCA dessazonalizado - Peso mensal (%),0.0029,1.04
+,Household Goods,3201013.Ventilador,IPCA dessazonalizado - Peso mensal (%),0.0228,0.81
+,Household Goods,3201021.Fogão,IPCA dessazonalizado - Peso mensal (%),0.1875,3.14
+,Household Goods,3201050.Chuveiro elétrico,IPCA dessazonalizado - Peso mensal (%),0.0217,1.73
+,Household Goods,3201065.Forno de micro-ondas,IPCA dessazonalizado - Peso mensal (%),0.0476,9.56
+,Household Goods,TV set,IPCA dessazonalizado - Peso mensal (%),0.184,-7.72
+,Household Goods,3202003.Aparelho de som,IPCA dessazonalizado - Peso mensal (%),0.0683,-3.33
+,Household Goods,3202005.Aparelho de DVD,IPCA dessazonalizado - Peso mensal (%),0.0611,2.3
+,Household Goods,3202013.Antena,IPCA dessazonalizado - Peso mensal (%),0.0061,-1.93
+,Household Goods,3202028.Microcomputador,IPCA dessazonalizado - Peso mensal (%),0.2841,2.04
+,Household Goods,3301002.Conserto de refrigerador,IPCA dessazonalizado - Peso mensal (%),0.0799,7.3
+,Household Goods,3301006.Conserto de televisor,IPCA dessazonalizado - Peso mensal (%),0.0708,3.55
+,Household Goods,3301009.Conserto de aparelho de som,IPCA dessazonalizado - Peso mensal (%),0.0049,11.17
+,Household Goods,3301015.Conserto de máquina de lavar roupa,IPCA dessazonalizado - Peso mensal (%),0.0651,7.13
+,Household Goods,3301022.Reforma de estofado,IPCA dessazonalizado - Peso mensal (%),0.1322,4.89
+,Household Goods,3301044.Manutenção de microcomputador,IPCA dessazonalizado - Peso mensal (%),0.0016,9.41
+,Clothing,4101002.Calça comprida masculina,IPCA dessazonalizado - Peso mensal (%),0.4374,2.5
+,Clothing,4101004.Terno,IPCA dessazonalizado - Peso mensal (%),0.064,3.59
+,Clothing,4101005.Agasalho masculino,IPCA dessazonalizado - Peso mensal (%),0.0682,-1.81
+,Clothing,4101006.Short e bermuda masculina,IPCA dessazonalizado - Peso mensal (%),0.2144,0.02
+,Clothing,4101008.Cueca,IPCA dessazonalizado - Peso mensal (%),0.0218,0.41
+,Clothing,4101009.Camisa / camiseta masculina,IPCA dessazonalizado - Peso mensal (%),0.6214,-0.85
+,Clothing,4102002.Calça comprida feminina,IPCA dessazonalizado - Peso mensal (%),0.4692,1.19
+,Clothing,4102003.Agasalho feminino,IPCA dessazonalizado - Peso mensal (%),0.0586,-7.87
+,Clothing,4102004.Saia,IPCA dessazonalizado - Peso mensal (%),0.0217,1.57
+,Clothing,4102005.Vestido,IPCA dessazonalizado - Peso mensal (%),0.2833,4.43
+,Clothing,4102008.Blusa,IPCA dessazonalizado - Peso mensal (%),0.6059,0.22
+,Clothing,4102010.Lingerie,IPCA dessazonalizado - Peso mensal (%),0.1605,4.05
+,Clothing,4102013.Bermuda e short feminino,IPCA dessazonalizado - Peso mensal (%),0.0853,-0.2
+,Clothing,4103001.Uniforme escolar,IPCA dessazonalizado - Peso mensal (%),0.0243,5.13
+,Clothing,4103002.Calça comprida infantil,IPCA dessazonalizado - Peso mensal (%),0.1224,1.51
+,Clothing,4103005.Agasalho infantil,IPCA dessazonalizado - Peso mensal (%),0.0398,0.17
+,Clothing,4103007.Vestido infantil,IPCA dessazonalizado - Peso mensal (%),0.0682,2.19
+,Clothing,4103008.Bermuda e short infantil,IPCA dessazonalizado - Peso mensal (%),0.1062,0.94
+,Clothing,4103011.Camisa / camiseta infantil,IPCA dessazonalizado - Peso mensal (%),0.2638,-1.74
+,Clothing,4103031.Conjunto infantil,IPCA dessazonalizado - Peso mensal (%),0.0405,2.81
+,Clothing,4201002.Sapato masculino,IPCA dessazonalizado - Peso mensal (%),0.1946,0.17
+,Clothing,4201003.Sapato feminino,IPCA dessazonalizado - Peso mensal (%),0.3054,-2.2
+,Clothing,4201004.Sapato infantil,IPCA dessazonalizado - Peso mensal (%),0.0127,0.37
+,Clothing,4201006.Sandália / chinelo masculino,IPCA dessazonalizado - Peso mensal (%),0.0214,0.34
+,Clothing,4201007.Sandália / chinelo feminino,IPCA dessazonalizado - Peso mensal (%),0.3703,-0.23
+,Clothing,4201008.Sandália / chinelo infantil,IPCA dessazonalizado - Peso mensal (%),0.0311,2.2
+,Clothing,4201015.Bolsa,IPCA dessazonalizado - Peso mensal (%),0.191,-0.48
+,Clothing,4201063.Tênis,IPCA dessazonalizado - Peso mensal (%),0.6311,-1.34
+,Clothing,4301001.Bijuteria,IPCA dessazonalizado - Peso mensal (%),0.1461,4.31
+,Clothing,4301002.Joia,IPCA dessazonalizado - Peso mensal (%),0.1798,6.32
+,Clothing,4301004.Relógio de pulso,IPCA dessazonalizado - Peso mensal (%),0.0149,3.4
+,Clothing,4401001.Tecido,IPCA dessazonalizado - Peso mensal (%),0.0514,4.5
+,Clothing,4401002.Artigos de armarinho,IPCA dessazonalizado - Peso mensal (%),0.0191,5.2
+,Clothing,4401005.Acortinado (mosquiteiro),IPCA dessazonalizado - Peso mensal (%),0.0137,-0.38
+,Transportation,Urban Bus,IPCA dessazonalizado - Peso mensal (%),2.6393,6.32
+,Transportation,5101002.Táxi,IPCA dessazonalizado - Peso mensal (%),0.3518,2.13
+,Transportation,5101004.Trem,IPCA dessazonalizado - Peso mensal (%),0.0553,11.13
+,Transportation,5101006.Ônibus intermunicipal,IPCA dessazonalizado - Peso mensal (%),0.7714,3.97
+,Transportation,5101007.Ônibus interestadual,IPCA dessazonalizado - Peso mensal (%),0.2483,8.47
+,Transportation,5101010.Passagem aérea,IPCA dessazonalizado - Peso mensal (%),0.4657,16.92
+,Transportation,5101011.Metrô,IPCA dessazonalizado - Peso mensal (%),0.065,3.86
+,Transportation,5101022.Transporte hidroviário,IPCA dessazonalizado - Peso mensal (%),0.0064,1.71
+,Transportation,5101026.Transporte escolar,IPCA dessazonalizado - Peso mensal (%),0.0946,3.37
+,Transportation,5102001.Automóvel novo,IPCA dessazonalizado - Peso mensal (%),2.6918,0.95
+,Transportation,5102004.Emplacamento e licença,IPCA dessazonalizado - Peso mensal (%),0.8916,5.23
+,Transportation,Non-compulsory Car Insurance,IPCA dessazonalizado - Peso mensal (%),0.2766,-8.86
+,Transportation,5102006.Multa,IPCA dessazonalizado - Peso mensal (%),0.0471,0
+,Transportation,5102007.Óleo lubrificante,IPCA dessazonalizado - Peso mensal (%),0.0955,2.12
+,Transportation,5102009.Acessórios e peças,IPCA dessazonalizado - Peso mensal (%),0.3366,0.48
+,Transportation,5102010.Pneu,IPCA dessazonalizado - Peso mensal (%),0.1841,0.87
+,Transportation,5102011.Conserto de automóvel,IPCA dessazonalizado - Peso mensal (%),1.7293,3.22
+,Transportation,5102013.Estacionamento,IPCA dessazonalizado - Peso mensal (%),0.0985,0.73
+,Transportation,5102015.Pedágio,IPCA dessazonalizado - Peso mensal (%),0.112,2.1
+,Transportation,5102019.Lubrificação e lavagem,IPCA dessazonalizado - Peso mensal (%),0.0414,-1.83
+,Transportation,5102020.Automóvel usado,IPCA dessazonalizado - Peso mensal (%),0.9483,-0.53
+,Transportation,5102037.Pintura de veículo,IPCA dessazonalizado - Peso mensal (%),0.0484,-0.42
+,Transportation,5102051.Aluguel de veículo,IPCA dessazonalizado - Peso mensal (%),0.0051,36.81
+,Transportation,5102053.Motocicleta,IPCA dessazonalizado - Peso mensal (%),0.6036,0.16
+,Transportation,Gas,IPCA dessazonalizado - Peso mensal (%),4.2263,7.24
+,Transportation,5104002.Etanol,IPCA dessazonalizado - Peso mensal (%),0.9849,-0.4
+,Transportation,5104003.Óleo diesel,IPCA dessazonalizado - Peso mensal (%),0.1522,6.61
+,Transportation,5104005.Gás veicular,IPCA dessazonalizado - Peso mensal (%),0.113,22.18
+,Healthcare,6101001.Anti-infeccioso e antibiótico,IPCA dessazonalizado - Peso mensal (%),0.2355,1.16
+,Healthcare,6101002.Analgésico e antitérmico,IPCA dessazonalizado - Peso mensal (%),0.4356,2.21
+,Healthcare,6101003.Anti-inflamatório e antirreumático,IPCA dessazonalizado - Peso mensal (%),0.3207,2.19
+,Healthcare,6101004.Antigripal e antitussígeno,IPCA dessazonalizado - Peso mensal (%),0.1907,1.06
+,Healthcare,6101006.Dermatológico,IPCA dessazonalizado - Peso mensal (%),0.1073,2.97
+,Healthcare,6101007.Antialérgico e broncodilatador,IPCA dessazonalizado - Peso mensal (%),0.1887,2.05
+,Healthcare,6101009.Gastroprotetor,IPCA dessazonalizado - Peso mensal (%),0.2158,2.03
+,Healthcare,6101010.Vitamina e fortificante,IPCA dessazonalizado - Peso mensal (%),0.201,1.64
+,Healthcare,6101011.Hormônio,IPCA dessazonalizado - Peso mensal (%),0.3766,2.73
+,Healthcare,6101013.Psicotrópico e anorexígeno,IPCA dessazonalizado - Peso mensal (%),0.4113,3.53
+,Healthcare,6101014.Hipotensor e hipocolesterolêmico,IPCA dessazonalizado - Peso mensal (%),0.7044,-1.1
+,Healthcare,6101051.Oftalmológico,IPCA dessazonalizado - Peso mensal (%),0.0764,4.28
+,Healthcare,6102002.Armação de óculos,IPCA dessazonalizado - Peso mensal (%),0.0397,0.53
+,Healthcare,6102003.Óculos sem grau,IPCA dessazonalizado - Peso mensal (%),0.0809,-1.94
+,Healthcare,6102011.Lentes de óculos e de contato,IPCA dessazonalizado - Peso mensal (%),0.1309,2.55
+,Healthcare,6201002.Médico,IPCA dessazonalizado - Peso mensal (%),0.4775,3.39
+,Healthcare,6201003.Dentista,IPCA dessazonalizado - Peso mensal (%),0.4889,4.75
+,Healthcare,6201005.Aparelho ortodôntico,IPCA dessazonalizado - Peso mensal (%),0.0625,3.43
+,Healthcare,6201006.Artigos ortopédicos,IPCA dessazonalizado - Peso mensal (%),0.0035,5.51
+,Healthcare,6201007.Fisioterapeuta,IPCA dessazonalizado - Peso mensal (%),0.058,1.44
+,Healthcare,6201010.Psicólogo,IPCA dessazonalizado - Peso mensal (%),0.0812,4.95
+,Healthcare,6202003.Exame de laboratório,IPCA dessazonalizado - Peso mensal (%),0.1,2.1
+,Healthcare,6202004.Hospitalização e cirurgia,IPCA dessazonalizado - Peso mensal (%),0.3832,4.54
+,Healthcare,6202006.Exame de imagem,IPCA dessazonalizado - Peso mensal (%),0.0975,3.84
+,Healthcare,Healthcare Plan,IPCA dessazonalizado - Peso mensal (%),3.9002,11.17
+,Healthcare,6301001.Produto para cabelo,IPCA dessazonalizado - Peso mensal (%),0.3066,3.85
+,Healthcare,6301002.Fralda descartável,IPCA dessazonalizado - Peso mensal (%),0.0587,-0.4
+,Healthcare,6301004.Produto para barba,IPCA dessazonalizado - Peso mensal (%),0.0145,0.76
+,Healthcare,Skin Product,IPCA dessazonalizado - Peso mensal (%),0.3455,-4.49
+,Healthcare,6301007.Produto para higiene bucal,IPCA dessazonalizado - Peso mensal (%),0.1999,5.23
+,Healthcare,6301010.Produto para unha,IPCA dessazonalizado - Peso mensal (%),0.0989,1.66
+,Healthcare,Perfume,IPCA dessazonalizado - Peso mensal (%),1.0096,-8.56
+,Healthcare,6301014.Desodorante,IPCA dessazonalizado - Peso mensal (%),0.112,-4.92
+,Healthcare,6301015.Absorvente higiênico,IPCA dessazonalizado - Peso mensal (%),0.011,2.31
+,Healthcare,6301016.Sabonete,IPCA dessazonalizado - Peso mensal (%),0.1702,4.05
+,Healthcare,6301017.Papel higiênico,IPCA dessazonalizado - Peso mensal (%),0.205,5.05
+,Healthcare,Makeup,IPCA dessazonalizado - Peso mensal (%),0.1439,-13.31
+,Personal Expenses,7101001.Costureira,IPCA dessazonalizado - Peso mensal (%),0.0496,1.83
+,Personal Expenses,7101005.Manicure,IPCA dessazonalizado - Peso mensal (%),0.444,2.7
+,Personal Expenses,7101009.Cabeleireiro,IPCA dessazonalizado - Peso mensal (%),1.2648,3.47
+,Personal Expenses,Domestic Worker,IPCA dessazonalizado - Peso mensal (%),4.2938,3.84
+,Personal Expenses,7101014.Depilação,IPCA dessazonalizado - Peso mensal (%),0.0149,4.42
+,Personal Expenses,7101036.Despachante,IPCA dessazonalizado - Peso mensal (%),0.0835,3.26
+,Personal Expenses,7101076.Serviço bancário,IPCA dessazonalizado - Peso mensal (%),0.6725,4.66
+,Personal Expenses,7101090.Conselho de classe,IPCA dessazonalizado - Peso mensal (%),0.0148,1.04
+,Personal Expenses,7201001.Cinema,IPCA dessazonalizado - Peso mensal (%),0.1955,5.18
+,Personal Expenses,7201002.CD e DVD,IPCA dessazonalizado - Peso mensal (%),0.0435,-1.87
+,Personal Expenses,7201003.Ingresso para jogo,IPCA dessazonalizado - Peso mensal (%),0.0094,0.25
+,Personal Expenses,7201006.Clube,IPCA dessazonalizado - Peso mensal (%),0.1711,2.62
+,Personal Expenses,7201010.Instrumento musical,IPCA dessazonalizado - Peso mensal (%),0.0393,3.08
+,Personal Expenses,7201018.Tratamento de animais,IPCA dessazonalizado - Peso mensal (%),0.2262,3.93
+,Personal Expenses,7201019.Bicicleta,IPCA dessazonalizado - Peso mensal (%),0.0922,0.42
+,Personal Expenses,7201020.Alimento para animais,IPCA dessazonalizado - Peso mensal (%),0.2742,1.86
+,Personal Expenses,7201023.Brinquedo,IPCA dessazonalizado - Peso mensal (%),0.4256,-0.17
+,Personal Expenses,7201052.Locação de DVD,IPCA dessazonalizado - Peso mensal (%),0.1164,0.12
+,Personal Expenses,7201054.Boate e danceteria,IPCA dessazonalizado - Peso mensal (%),0.2486,-0.09
+,Personal Expenses,7201063.Jogos de azar,IPCA dessazonalizado - Peso mensal (%),0.4555,0
+,Personal Expenses,7201068.Motel,IPCA dessazonalizado - Peso mensal (%),0.0038,4.69
+,Personal Expenses,7201090.Hotel,IPCA dessazonalizado - Peso mensal (%),0.315,1.58
+,Personal Expenses,7201095.Excursão,IPCA dessazonalizado - Peso mensal (%),0.3446,1.19
+,Personal Expenses,7202041.Cigarro,IPCA dessazonalizado - Peso mensal (%),1.0825,2.46
+,Personal Expenses,7203001.Máquina fotográfica,IPCA dessazonalizado - Peso mensal (%),0.0456,9.8
+,Personal Expenses,7203003.Revelação e cópia,IPCA dessazonalizado - Peso mensal (%),0.0287,2.49
+,Education,8101001.Creche,IPCA dessazonalizado - Peso mensal (%),0.019,6.61
+,Education,8101002.Educação infantil,IPCA dessazonalizado - Peso mensal (%),0.2112,7.77
+,Education,8101003.Ensino fundamental,IPCA dessazonalizado - Peso mensal (%),0.8111,7.46
+,Education,8101004.Ensino médio,IPCA dessazonalizado - Peso mensal (%),0.3787,7.16
+,Education,8101005.Ensino superior,IPCA dessazonalizado - Peso mensal (%),1.4852,4.04
+,Education,8101006.Pós-graduação,IPCA dessazonalizado - Peso mensal (%),0.2083,5.55
+,Education,8102001.Jornal diário,IPCA dessazonalizado - Peso mensal (%),0.1408,8.81
+,Education,8102002.Assinatura de jornal,IPCA dessazonalizado - Peso mensal (%),0.041,5.09
+,Education,8102004.Revista,IPCA dessazonalizado - Peso mensal (%),0.2268,5.62
+,Education,8102005.Livro,IPCA dessazonalizado - Peso mensal (%),0.1372,2.89
+,Education,8103001.Caderno,IPCA dessazonalizado - Peso mensal (%),0.1369,3.47
+,Education,8103002.Fotocópia,IPCA dessazonalizado - Peso mensal (%),0.0256,2.55
+,Education,8103014.Artigos de papelaria,IPCA dessazonalizado - Peso mensal (%),0.1978,3.41
+,Education,8104001.Curso preparatório,IPCA dessazonalizado - Peso mensal (%),0.172,3.95
+,Education,8104002.Curso técnico,IPCA dessazonalizado - Peso mensal (%),0.0744,3.39
+,Education,8104003.Curso de idioma,IPCA dessazonalizado - Peso mensal (%),0.2625,6.13
+,Education,8104004.Curso de informática,IPCA dessazonalizado - Peso mensal (%),0.0987,4.62
+,Education,8104006.Atiividades físicas,IPCA dessazonalizado - Peso mensal (%),0.1993,3.33
+,Communication,9101001.Correio,IPCA dessazonalizado - Peso mensal (%),0.0124,9.54
+,Communication,Landline phone,IPCA dessazonalizado - Peso mensal (%),0.8918,-1.28
+,Communication,9101003.Telefone público,IPCA dessazonalizado - Peso mensal (%),0.1006,-3.2
+,Communication,9101008.Telefone celular,IPCA dessazonalizado - Peso mensal (%),1.302,0.67
+,Communication,9101018.Acesso à internet,IPCA dessazonalizado - Peso mensal (%),0.2265,1.64
+,Communication,9101019.Aparelho telefônico,IPCA dessazonalizado - Peso mensal (%),0.1338,-4.29
+,Communication,9101021.Telefone com internet - pacote,IPCA dessazonalizado - Peso mensal (%),0.6926,0.54
+,Communication,9101022.TV por assinatura com internet,IPCA dessazonalizado - Peso mensal (%),0.2866,0
